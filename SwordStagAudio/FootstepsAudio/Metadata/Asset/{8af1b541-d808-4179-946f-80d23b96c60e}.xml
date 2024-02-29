@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{8af1b541-d808-4179-946f-80d23b96c60e}">
+		<property name="assetPath">
+			<value>Ambience/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{86aadf41-95ed-42b5-b63f-4b99af954d2b}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{130e6f45-fa0a-445d-bd4e-d8ae1250d047}">
+		<property name="assetPath">
+			<value>Impact/Flesh/FleshImpact3.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.54589583333333336</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{86aadf41-95ed-42b5-b63f-4b99af954d2b}</destination>
+		</relationship>
+	</object>
+</objects>

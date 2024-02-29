@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{2417a95e-a2ac-42a9-91bf-ac5566d45cf2}">
+		<property name="name">
+			<value>Gyndyr</value>
+		</property>
+		<relationship name="folder">
+			<destination>{4f4180d9-15a2-49b4-96ef-fd855588fb57}</destination>
+		</relationship>
+	</object>
+</objects>

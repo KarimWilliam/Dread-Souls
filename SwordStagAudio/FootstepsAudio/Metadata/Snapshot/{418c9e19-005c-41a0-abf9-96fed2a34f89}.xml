@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Snapshot" id="{418c9e19-005c-41a0-abf9-96fed2a34f89}">
+		<property name="name">
+			<value>ReverbInternal</value>
+		</property>
+		<relationship name="mixer">
+			<destination>{d1c15fa9-0998-42ef-804e-b0a48c359bac}</destination>
+		</relationship>
+		<relationship name="automatableProperties">
+			<destination>{4a2f9f04-4a4e-4cc0-93bb-7fd58cf356df}</destination>
+		</relationship>
+		<relationship name="markerTracks">
+			<destination>{dc5f56fd-b70c-4179-9792-925706546c54}</destination>
+		</relationship>
+		<relationship name="timeline">
+			<destination>{32e387d5-ba7c-44fa-a2f7-bc78ff5410fb}</destination>
+		</relationship>
+		<relationship name="snapshotMasterTrack">
+			<destination>{cc17a649-9180-41e6-a2e4-050116766757}</destination>
+		</relationship>
+		<relationship name="snapshotProperties">
+			<destination>{d5189afc-04c3-48c3-8a76-b8fc7fc57440}</destination>
+			<destination>{a6afac82-c745-43a3-b655-a51fb3960d19}</destination>
+			<destination>{a0a1e1cc-1636-429e-b2f5-35a9d10ae8e0}</destination>
+			<destination>{74666f37-5a0a-4eaf-b70f-a7b937bd5c73}</destination>
+			<destination>{975a1151-c064-4e80-9fa5-386f30a4d1b9}</destination>
+			<destination>{840afe96-fd47-4fd9-9ced-8d472cb13cea}</destination>
+			<destination>{10565a7f-dc13-4df8-ac7c-3c7e4d78dc8d}</destination>
+		</relationship>
+		<relationship name="snapshotTracks">
+			<destination>{eed87266-bfa8-4715-a2bf-baf55babff9d}</destination>
+			<destination>{ef608b72-ac81-433c-a155-11635653bd7e}</destination>
+			<destination>{72f27b12-1e05-47bd-831d-0b480fc2446d}</destination>
+			<destination>{49d0967a-f02b-4611-bca7-bb2d1f4b39ff}</destination>
+		</relationship>
+	</object>
+	<object class="EventAutomatableProperties" id="{4a2f9f04-4a4e-4cc0-93bb-7fd58cf356df}">
+		<relationship name="modulators">
+			<destination>{71556bc2-8491-4b8a-ac9d-3885be6fee2f}</destination>
+		</relationship>
+	</object>
+	<object class="MarkerTrack" id="{dc5f56fd-b70c-4179-9792-925706546c54}" />
+	<object class="Timeline" id="{32e387d5-ba7c-44fa-a2f7-bc78ff5410fb}" />
+	<object class="SnapshotMasterTrack" id="{cc17a649-9180-41e6-a2e4-050116766757}" />
+	<object class="SnapshotProperty" id="{d5189afc-04c3-48c3-8a76-b8fc7fc57440}">
+		<property name="propertyName">
+			<value>volume</value>
+		</property>
+		<property name="value">
+			<value>-20.5</value>
+		</property>
+		<relationship name="automatableObject">
+			<destination>{61013283-c801-4cd7-8b43-8c0c4e690750}</destination>
+		</relationship>
+	</object>
+	<object class="SnapshotProperty" id="{a6afac82-c745-43a3-b655-a51fb3960d19}">
+		<property name="propertyName">
+			<value>level</value>
+		</property>
+		<property name="value">
+			<value>0</value>
+		</property>
+		<relationship name="automatableObject">
+			<destination>{d947f256-cc38-40d3-9c7d-ef899d363d84}</destination>
+		</relationship>
+	</object>
+	<object class="SnapshotProperty" id="{a0a1e1cc-1636-429e-b2f5-35a9d10ae8e0}">
+		<property name="propertyName">
+			<value>volume</value>
+		</property>
+		<property name="value">
+			<value>0</value>
+		</property>
+		<relationship name="automatableObject">
+			<destination>{60d9a20f-da7a-42b3-baef-f5222b5dc3a2}</destination>
+		</relationship>
+	</object>
+	<object class="SnapshotProperty" id="{74666f37-5a0a-4eaf-b70f-a7b937bd5c73}">
+		<property name="propertyName">
+			<value>volume</value>
+		</property>
+		<property name="value">
+			<value>-11.5</value>
+		</property>
+		<relationship name="automatableObject">
+			<destination>{f11a7767-e033-487e-a12e-4f81cc28f375}</destination>
+		</relationship>
+	</object>
+	<object class="SnapshotProperty" id="{975a1151-c064-4e80-9fa5-386f30a4d1b9}">
+		<property name="propertyName">
+			<value>highGain</value>
+		</property>
+		<property name="value">
+			<value>-5.5</value>
+		</property>
+		<relationship name="automatableObject">
+			<destination>{1afb56f8-22df-4353-843d-d1220428d8b6}</destination>
+		</relationship>
+	</object>
+	<object class="SnapshotProperty" id="{840afe96-fd47-4fd9-9ced-8d472cb13cea}">
+		<property name="propertyName">
+			<value>level</value>
+		</property>
+		<property name="value">
+			<value>0</value>
+		</property>
+		<relationship name="automatableObject">
+			<destination>{90a2c444-c79b-427d-9d45-53d26f3e6901}</destination>
+		</relationship>
+	</object>
+	<object class="SnapshotProperty" id="{10565a7f-dc13-4df8-ac7c-3c7e4d78dc8d}">
+		<property name="propertyName">
+			<value>level</value>
+		</property>
+		<property name="value">
+			<value>0</value>
+		</property>
+		<relationship name="automatableObject">
+			<destination>{0e678e90-ccb0-4807-9344-7efcfc51d574}</destination>
+		</relationship>
+	</object>
+	<object class="SnapshotTrack" id="{eed87266-bfa8-4715-a2bf-baf55babff9d}">
+		<relationship name="mixerStrip">
+			<destination>{61013283-c801-4cd7-8b43-8c0c4e690750}</destination>
+		</relationship>
+	</object>
+	<object class="SnapshotTrack" id="{ef608b72-ac81-433c-a155-11635653bd7e}">
+		<relationship name="mixerStrip">
+			<destination>{60d9a20f-da7a-42b3-baef-f5222b5dc3a2}</destination>
+		</relationship>
+	</object>
+	<object class="SnapshotTrack" id="{72f27b12-1e05-47bd-831d-0b480fc2446d}">
+		<relationship name="mixerStrip">
+			<destination>{f11a7767-e033-487e-a12e-4f81cc28f375}</destination>
+		</relationship>
+	</object>
+	<object class="SnapshotTrack" id="{49d0967a-f02b-4611-bca7-bb2d1f4b39ff}">
+		<relationship name="mixerStrip">
+			<destination>{28deeb1c-f79e-4303-98ca-f178437bd890}</destination>
+		</relationship>
+	</object>
+	<object class="ADSRModulator" id="{71556bc2-8491-4b8a-ac9d-3885be6fee2f}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>snapshotIntensity</value>
+		</property>
+		<property name="attackTime">
+			<value>1400</value>
+		</property>
+		<property name="peakValue">
+			<value>100</value>
+		</property>
+		<property name="sustainValue">
+			<value>100</value>
+		</property>
+		<property name="releaseTime">
+			<value>1400</value>
+		</property>
+	</object>
+</objects>

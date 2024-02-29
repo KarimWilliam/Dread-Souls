@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{d249195d-d523-4679-88a8-f50d19cde3e6}">
+		<relationship name="projectSettings">
+			<destination>{52ef65b9-b2fe-465e-b0e7-711debb530fe}</destination>
+		</relationship>
+		<relationship name="sourceControlProvider">
+			<destination>{dcae926f-9f17-4cda-ae09-2ce1fae92dc6}</destination>
+		</relationship>
+		<relationship name="changelist">
+			<destination>{7890d1bc-64db-4d14-9e5d-eec4a556a6ea}</destination>
+		</relationship>
+	</object>
+	<object class="ProjectSettings" id="{52ef65b9-b2fe-465e-b0e7-711debb530fe}">
+		<property name="openWindows">
+			<value>Event Editor 1</value>
+		</property>
+		<property name="windowLayout">
+			<value>AAAABQAAAB4ATQBpAHgAZQByACAAUgBvAHUAdABpAG4AZwAgADEAAABCAdnQywADAAAAAAQ3AAABMQAABcgAAAQgAAAEOAAAAVAAAAXHAAAEHwAAAAAAAAAACgAAAAQ4AAABUAAABccAAAQfAAAADgBNAGkAeABlAHIAIAAyAAAAQgHZ0MsAAwAAAAAETAAAARgAAAjbAAAE9wAABE0AAAE3AAAI2gAABPYAAAAAAAAAAAoAAAAETQAAATcAAAjaAAAE9gAAAA4ATQBpAHgAZQByACAAMQAAAEIB2dDLAAMAAP/////////4AAAKAAAABXAAAAJXAAAAiAAACP0AAARHAAAAAAIAAAAKAAAAAAAAAAAXAAAJ/wAABW8AAAAcAEUAdgBlAG4AdAAgAEUAZABpAHQAbwByACAAMQAAAEIB2dDLAAMAAP/////////4AAAKAAAABXAAAANWAAABZgAAB3UAAAMJAAAAAAIAAAAKAAAAAAAAAAAXAAAJ/wAABW8AAAAWAEEAdQBkAGkAbwAgAEIAaQBuACAAMQAAAEIB2dDLAAMAAAAABqcAAABJAAAIOAAAAzgAAAaoAAAAaAAACDcAAAM3AAAAAAAAAAAKAAAABqgAAABoAAAINwAAAzc=</value>
+		</property>
+		<relationship name="activePlatform">
+			<destination>{605ffe75-b922-4b36-b485-fc2a4353cdb2}</destination>
+		</relationship>
+	</object>
+	<object class="ScriptBasedProvider" id="{dcae926f-9f17-4cda-ae09-2ce1fae92dc6}">
+		<property name="name">
+			<value>Perforce</value>
+		</property>
+		<property name="settings">
+			<value>{"p4port":"1666","p4host":"","p4encoding":"none","p4user":"Karim","p4password":"","p4client":"KarimPC","p4Executable":""}</value>
+		</property>
+	</object>
+	<object class="WorkspaceChangelist" id="{7890d1bc-64db-4d14-9e5d-eec4a556a6ea}">
+		<property name="filesOnHold" />
+		<property name="filesExplicitlyLocked" />
+	</object>
+</objects>
